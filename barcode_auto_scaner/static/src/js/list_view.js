@@ -84,4 +84,4 @@ export const ManufacturingBarcodeControllerListView = {
 
 
 
-registry.category("views").add("test_barcode", ManufacturingBarcodeControllerListView);
+registry.category("views").add("add_barcode_scaner_popup", ManufacturingBarcodeControllerListView);

@@ -10,7 +10,7 @@
     'version': '8.45',
     'depends': ['mrp'],
     'data': [
-
+'views/mrp_production_tree.xml'
     ],
     'assets': {
 
